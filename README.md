@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Adil-Mohammed1, I done A-Level computer science and Maths and recieved an A in both. After completing them I completed the py4e course by Charles Severance.
+- However I feel like my coding is still not upto a good enough standard so  I was looking for some insight or advice into another course or some assignments I could do.
